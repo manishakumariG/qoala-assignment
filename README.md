@@ -1,4 +1,4 @@
-# Qoala-assingment for DevOps Position
+# Qoala-assignment for DevOps Position
 qoala assingment
 
 
